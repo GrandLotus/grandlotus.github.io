@@ -1,0 +1,13 @@
+name = "DeftuLib"
+filename = "DeftuLib-1.18.2-1.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WfhjX9sQ/versions/L5kSfSC6/DeftuLib-1.18.2-1.4.1.jar"
+hash-format = "sha1"
+hash = "3d7dc80fdfe5f7720e1637604dfef42a068b4f45"
+
+[update]
+[update.modrinth]
+mod-id = "WfhjX9sQ"
+version = "L5kSfSC6"

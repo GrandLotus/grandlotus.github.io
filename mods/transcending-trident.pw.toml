@@ -1,0 +1,13 @@
+name = "Transcending Trident"
+filename = "transcendingtrident-fabric_1.18.2-2.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7GxZi46W/versions/XrAAkCGu/transcendingtrident-fabric_1.18.2-2.9.jar"
+hash-format = "sha1"
+hash = "4b9965be3d2a2d541f04d6495b20841222131d4d"
+
+[update]
+[update.modrinth]
+mod-id = "7GxZi46W"
+version = "XrAAkCGu"

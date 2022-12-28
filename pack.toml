@@ -1,0 +1,13 @@
+name = "Hellscape"
+author = "Cronus"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "56ea8fb70f891e0a954289abb01b68d66b71298fb6a7516cc6aa8426f842db11"
+
+[versions]
+fabric = "0.14.12"
+minecraft = "1.18.2"

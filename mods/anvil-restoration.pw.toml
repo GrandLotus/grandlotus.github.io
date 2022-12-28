@@ -1,0 +1,13 @@
+name = "Anvil Restoration"
+filename = "anvilrestoration-fabric_1.18.2-1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bd8nwTGy/versions/Gys8QCgF/anvilrestoration-fabric_1.18.2-1.7.jar"
+hash-format = "sha1"
+hash = "3cb7ce01b36e856d3c0cdb5cff05009a0e20d8b0"
+
+[update]
+[update.modrinth]
+mod-id = "bd8nwTGy"
+version = "Gys8QCgF"

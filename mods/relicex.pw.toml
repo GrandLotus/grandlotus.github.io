@@ -1,0 +1,13 @@
+name = "RelicEx"
+filename = "relicex-3.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LwwtuiRk/versions/cNhruGsw/relicex-3.1.5.jar"
+hash-format = "sha1"
+hash = "5926a4f528b3e20dff31c1c0ab081cba6b7f39a5"
+
+[update]
+[update.modrinth]
+mod-id = "LwwtuiRk"
+version = "cNhruGsw"

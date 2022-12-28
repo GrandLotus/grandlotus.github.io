@@ -1,0 +1,13 @@
+name = "Stylish Occult"
+filename = "stylish-occult-0.12.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/df4EzLrt/versions/5TyaeR96/stylish-occult-0.12.1.jar"
+hash-format = "sha1"
+hash = "1f5a642de73873e28f045a3249033f12933a86cd"
+
+[update]
+[update.modrinth]
+mod-id = "df4EzLrt"
+version = "5TyaeR96"

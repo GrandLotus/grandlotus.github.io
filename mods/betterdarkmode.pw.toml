@@ -1,0 +1,13 @@
+name = "BetterDarkMode"
+filename = "better-dark-mode-2.1.0-1.18.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/f9nVUXRK/versions/ye7XeR5U/better-dark-mode-2.1.0-1.18.2.jar"
+hash-format = "sha1"
+hash = "f8d2a89e3be184eae41885d4d063b42dc6663a2c"
+
+[update]
+[update.modrinth]
+mod-id = "f9nVUXRK"
+version = "ye7XeR5U"

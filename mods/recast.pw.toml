@@ -1,0 +1,13 @@
+name = "Recast"
+filename = "recast-fabric_1.18.2-2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8TWzoOby/versions/GQHV8zmR/recast-fabric_1.18.2-2.2.jar"
+hash-format = "sha1"
+hash = "21cfe854409ac9fc65db08c552ffcb63b2ee9afb"
+
+[update]
+[update.modrinth]
+mod-id = "8TWzoOby"
+version = "GQHV8zmR"

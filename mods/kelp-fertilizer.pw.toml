@@ -1,0 +1,13 @@
+name = "Kelp Fertilizer"
+filename = "kelpfertilizer-fabric_1.18.2-2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eKxUpBGQ/versions/z6lKDqBH/kelpfertilizer-fabric_1.18.2-2.3.jar"
+hash-format = "sha1"
+hash = "be9cef71bf418ad70bbecde456cadf41e437b20b"
+
+[update]
+[update.modrinth]
+mod-id = "eKxUpBGQ"
+version = "z6lKDqBH"

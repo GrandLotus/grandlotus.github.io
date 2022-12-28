@@ -1,0 +1,13 @@
+name = "Prefab"
+filename = "prefab-fabric-3.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pTJ1ZloG/versions/3.1.5/prefab-fabric-3.1.5.jar"
+hash-format = "sha1"
+hash = "ad1de5687641aab7f228c757d51c863153b13530"
+
+[update]
+[update.modrinth]
+mod-id = "pTJ1ZloG"
+version = "9rG5DwT7"

@@ -1,0 +1,13 @@
+name = "Data Attributes"
+filename = "dataattributes-1.1.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wFyCClLQ/versions/FidCN0zR/dataattributes-1.1.13.jar"
+hash-format = "sha1"
+hash = "3f7dce1427b21553e8068f73d9c008aa5ae21f63"
+
+[update]
+[update.modrinth]
+mod-id = "wFyCClLQ"
+version = "FidCN0zR"

@@ -1,0 +1,13 @@
+name = "Peculiar Pieces"
+filename = "peculiar-pieces-1.18.2-fabric-1.0.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qCIOjJW2/versions/1.0.17/peculiar-pieces-1.18.2-fabric-1.0.17.jar"
+hash-format = "sha1"
+hash = "d7c6fcc7c1c8322bbbf2f89f577cc43bb4c4c511"
+
+[update]
+[update.modrinth]
+mod-id = "qCIOjJW2"
+version = "R04h9Nzi"

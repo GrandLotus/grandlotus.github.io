@@ -1,0 +1,11 @@
+name = "NBT Crafting"
+filename = "nbtcrafting-2.2.3+mc1.18.2"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/18ztUZP5/versions/54JYWQML/nbtcrafting-2.2.3%2Bmc1.18.2.jar"
+
+# A number of tools can generate the hash for you, including 7-zip and sha256sum
+# packwiz supports a number of hashes, including sha256, sha512, sha1 and md5
+hash-format = "sha256"
+hash = "7efdba91411cff2078af58003816c156d4f6c81b29bcb812987ee50533e33a2a"

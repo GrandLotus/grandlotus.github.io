@@ -1,0 +1,13 @@
+name = "Inventory Totem"
+filename = "inventorytotem-fabric_1.18.2-2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yQj7xqEM/versions/w9LJq8RP/inventorytotem-fabric_1.18.2-2.2.jar"
+hash-format = "sha1"
+hash = "ff1b0a13c34adc80e58611384484f77194f8b299"
+
+[update]
+[update.modrinth]
+mod-id = "yQj7xqEM"
+version = "w9LJq8RP"

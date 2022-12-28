@@ -1,0 +1,13 @@
+name = "Tree Harvester"
+filename = "treeharvester-fabric_1.18.2-5.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/abooMhox/versions/GRFXmyHa/treeharvester-fabric_1.18.2-5.9.jar"
+hash-format = "sha1"
+hash = "ae89019a24d58b7b28214393aae25b8ea20771b1"
+
+[update]
+[update.modrinth]
+mod-id = "abooMhox"
+version = "GRFXmyHa"
