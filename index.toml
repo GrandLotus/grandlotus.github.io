@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8cf5324d7ab4e2080d3abb786acdc1a2f4fa0a139d296ae056db321362edff77"
+hash = "145dbcbac757622ec415041cdcabf07654981f84d5044c8fc16f6aa88a03ccb3"
 metafile = true
 
 [[files]]
@@ -711,6 +711,11 @@ hash = "6ed4f74b5a5189086b3d8797162fa27513e72070389e5fe6c80df24ff757f507"
 metafile = true
 
 [[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "c013f8fdeb6a922df3f41887f712e297146f11c3775e35a5cefe8d3023d21782"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "ec64297b6b7f82ede5ecc46a82e8a0e8dc8b730ee2ad763427b7043389b7a072"
 metafile = true
@@ -873,6 +878,16 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "ccf2d00ef6676f43bebf2b70408b2618aa9fdb738d6ac1727f50f2e54d09bf91"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "d3cbfc74109c4ff70f7d61d559c7fee5d675762b9265174aaca5625b1629ec9c"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-professions-rep.pw.toml"
+hash = "83f571ee3020d90eb7ac7e0db4cf222d246223dffcc9f0cc8d7ef6859f4bddfa"
 metafile = true
 
 [[files]]
