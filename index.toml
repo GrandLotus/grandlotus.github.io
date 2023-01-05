@@ -462,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "145dbcbac757622ec415041cdcabf07654981f84d5044c8fc16f6aa88a03ccb3"
+hash = "8cf5324d7ab4e2080d3abb786acdc1a2f4fa0a139d296ae056db321362edff77"
 metafile = true
 
 [[files]]
@@ -583,11 +583,6 @@ metafile = true
 [[files]]
 file = "mods/imperishableitemsfabric.pw.toml"
 hash = "1645e920dcb8c77fcc9d88d252575089532947f15e06b215fe75a8371e9df39a"
-metafile = true
-
-[[files]]
-file = "mods/inventory-tabs-updated.pw.toml"
-hash = "4260894fd18d9e593e8364a0ac3aab1ac7ba6b654010a928f05f12f1e1a83006"
 metafile = true
 
 [[files]]
@@ -768,6 +763,11 @@ metafile = true
 [[files]]
 file = "mods/observable.pw.toml"
 hash = "e65fa0dc743f253b0cd19fbdf4d9fd48b4e9d9aa7531505f53c7a855c32bb257"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-biomes-youll-go-fabric.pw.toml"
+hash = "91e6ca5321ae6fa135d921fc2c56b0e98c1fb01ec0f296906b95200222eb62d6"
 metafile = true
 
 [[files]]
@@ -988,6 +988,11 @@ metafile = true
 [[files]]
 file = "mods/techreborn.pw.toml"
 hash = "177ee30550628f668ed56a11659add4daa666df48fb92bfdf7f375e6cdfe7683"
+metafile = true
+
+[[files]]
+file = "mods/terrablender-fabric.pw.toml"
+hash = "32a91a3014d6ebbd94bfd3b72f2381f0ee079a8e83b0f7d4e66e1a955e32c528"
 metafile = true
 
 [[files]]
