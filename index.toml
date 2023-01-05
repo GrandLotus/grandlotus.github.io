@@ -86,6 +86,11 @@ hash = "5de92673edf1632d8be681c9beb7c218002a70d2094a2f1d86c75afc4d597cce"
 metafile = true
 
 [[files]]
+file = "mods/aspects-origins-addon.pw.toml"
+hash = "874e565a17ca9d3374d920dd36fb4269eda0c18572766aa0efbd3030d9f42c4e"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "62d2ce122f6e9d53cc8a4a902a14a12f358f02b7041667f1744a4ec72a55ae7e"
 metafile = true
@@ -131,6 +136,11 @@ hash = "19fbb6989aa620fe21a9e937764d2a37b8ef10af3b28ef6483e7bae21fc7ab17"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "2f5ef6eda6aa829f6fc70cc4d16da89acebc933709d666fd382d848c841b6c86"
+metafile = true
+
+[[files]]
 file = "mods/beenfo.pw.toml"
 hash = "02cb28058720760640b94a79e552f8f7b842bbdcb2a6773a72bd789c0fc90fe1"
 metafile = true
@@ -163,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/betterdarkmode.pw.toml"
 hash = "1189187153bc8183c3b86939da395bcbbcfd6111917ba918d119c934a0f6910b"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "3f1a94dc7555d19869312ad0218e97a15505f77a1b2f1228dc718e238a4b5c53"
 metafile = true
 
 [[files]]
@@ -386,26 +401,6 @@ hash = "6d7b04efc75df1cf683461b8834aa27fcce910f1af30107a943bdef94c0ab408"
 metafile = true
 
 [[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "778cb3ee004a25b398ccbd49bcba6ab6e29fcccabcfbe75af68b3eb69dda1d20"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "598fc5304ec71900720661e62857a4cf8c3cb2019ad04171a7886de1c4c92916"
-metafile = true
-
-[[files]]
-file = "mods/emicompat.pw.toml"
-hash = "c4bed15089b2301f7d9b8953b115965df74368d7aa603940f81e1bf23bb8e4e2"
-metafile = true
-
-[[files]]
-file = "mods/emitrades.pw.toml"
-hash = "ae560f554ce70728cf3181d8163d99db22842563e6f68ea6167f91eacee2d123"
-metafile = true
-
-[[files]]
 file = "mods/endium.pw.toml"
 hash = "c98684e1104b7b2a9839ca932d068aa418e71138b6dc9817f4f9a7974af3673a"
 metafile = true
@@ -467,7 +462,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "145dbcbac757622ec415041cdcabf07654981f84d5044c8fc16f6aa88a03ccb3"
+hash = "8cf5324d7ab4e2080d3abb786acdc1a2f4fa0a139d296ae056db321362edff77"
 metafile = true
 
 [[files]]
@@ -781,13 +776,18 @@ hash = "e86696acaa29f3e9732505a051010a98dd247ded2d669349a754602e72962916"
 metafile = true
 
 [[files]]
+file = "mods/origins-extra-keybinds.pw.toml"
+hash = "fdf25729d9a199df8bade60c445e01d7ce64dda29468c5e35f28b0ff0744c3e5"
+metafile = true
+
+[[files]]
 file = "mods/origins-plus-plus.pw.toml"
 hash = "c9dd736fc7bf45aee621f51f723495ccdcc310659f5be6e81d450492ed6c3c9f"
 metafile = true
 
 [[files]]
 file = "mods/origins.pw.toml"
-hash = "f8cf32a9a4872c9c66312237e1d12bd6dd427ebce1686cd2c499991a86f0ad7e"
+hash = "3b695c715b0500ffa0934bb6b688cd54f63fdc44f69e3706308eaf708fe9a17b"
 metafile = true
 
 [[files]]

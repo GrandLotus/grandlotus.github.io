@@ -1,0 +1,13 @@
+name = "Aspects | Origins Addon"
+filename = "aspects-1.0.8-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5fdde3ea32ab90e63f6a6c87eff692dd810fbab2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4053758
+project-id = 556745
