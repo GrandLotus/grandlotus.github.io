@@ -1156,6 +1156,11 @@ hash = "0699923cdb9f9f031a1bb31e940d8280f27d1d06aa22a0beb3eeedf9decda5d3"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "19b413b4e2cb913fea75f9bf32171b6957330243c5bed027c21dfa1d62b50db1"
+metafile = true
+
+[[files]]
 file = "mods/xl-packets-fabric.pw.toml"
 hash = "bb48e2f46c2ab8c1f4b81cb086ffdf39b4cb5cf6267748d7fc094f42d4bd31c5"
 metafile = true
