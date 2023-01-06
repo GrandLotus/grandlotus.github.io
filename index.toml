@@ -81,6 +81,11 @@ hash = "5c067cf953857a327140fca91560dcb225c2f49d8dc5c0e71525812570e8e902"
 metafile = true
 
 [[files]]
+file = "mods/archon.pw.toml"
+hash = "4da01614eb99cc57f437c0bb7b4ae55cf132f12e7ed43fce080a3c35d48cb180"
+metafile = true
+
+[[files]]
 file = "mods/artisanat.pw.toml"
 hash = "5de92673edf1632d8be681c9beb7c218002a70d2094a2f1d86c75afc4d597cce"
 metafile = true
@@ -103,6 +108,26 @@ metafile = true
 [[files]]
 file = "mods/autotag.pw.toml"
 hash = "b50913c0fba8b7910134dc6140b2c640d0d25a77e507789036c68b8da3d63dd1"
+metafile = true
+
+[[files]]
+file = "mods/awesome-dungeon-edition-ocean-fabric.pw.toml"
+hash = "7715e8bc1ee511ce4274a24f7bd2005cdedd9590f797310b1e8b87c0a0deaf50"
+metafile = true
+
+[[files]]
+file = "mods/awesome-dungeon-fabric.pw.toml"
+hash = "faf1ba6f767cabc649111e39ffc68d3d39f5172e0c5878c05ed46c6a56fac96d"
+metafile = true
+
+[[files]]
+file = "mods/awesome-dungeon-nether-fabric.pw.toml"
+hash = "a8ee33f5084b2b2474cd94184925441f63da02e831702bbfebbd98d09421c925"
+metafile = true
+
+[[files]]
+file = "mods/awesome-dungeon-the-end-fabric.pw.toml"
+hash = "13669d70a76dda35f0d34e82d229344cfe2a4cbc8b7237d17ae67ff084021f7a"
 metafile = true
 
 [[files]]
@@ -218,6 +243,21 @@ metafile = true
 [[files]]
 file = "mods/can-you-trash-it.pw.toml"
 hash = "29c7d3d721cbf685b5671e12ab2de3462b2f441b83860a2723f336a63c31cea6"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "7d8f41b1d67756a024ed291bdb5fe10a55e4a1a4934cb5ba2f1a819cae8becf0"
+metafile = true
+
+[[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "bb38aebe2b268dee1f7cf053a052e906300cf3060e98d132ad215eb9304f1dda"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "ce68fe066c471b3a2c503e694c3b88581ad5af3e509f8c5cf672adeb1adf11f2"
 metafile = true
 
 [[files]]
@@ -591,6 +631,11 @@ hash = "1645e920dcb8c77fcc9d88d252575089532947f15e06b215fe75a8371e9df39a"
 metafile = true
 
 [[files]]
+file = "mods/incantationem.pw.toml"
+hash = "00fa49468abfa5f13fa55a08602250f8f6d3c28167c6d7330f7a8aab727292b9"
+metafile = true
+
+[[files]]
 file = "mods/inventory-totem.pw.toml"
 hash = "558adfd1e8a713cbcc0fc5f163bc86b893dcb4fa313b29ef6e0f14803d5809f5"
 metafile = true
@@ -626,6 +671,11 @@ hash = "f7b4ae928f8e8edd8706095911c1bf82e54b766f7d8bd57b5ae557e7bdc0a83e"
 metafile = true
 
 [[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "c2f8fbbfa209673ad71c2157b07254a096d423100c3c1e25aa1ba57822368abd"
+metafile = true
+
+[[files]]
 file = "mods/lan-extender.pw.toml"
 hash = "c92fd674ddd1b9091808e9e10b83f1dec4635e99bc38f795b9a87657eaa01545"
 metafile = true
@@ -636,8 +686,23 @@ hash = "5a282ddcede998bb2543af8565e9f599e570957563bf27d825b89e945ef5773a"
 metafile = true
 
 [[files]]
+file = "mods/lato-origins.pw.toml"
+hash = "ae42cde185c0c4df2a9cc48a37820b397dfee30afbafd09cf61ba8924d6aacf4"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b59cda50b7fa539aa9783bb8d87b55ca4e05d0269c9f2e2df69fa2134d0e644f"
+metafile = true
+
+[[files]]
 file = "mods/legendary-tooltips.pw.toml"
 hash = "ed0c7fb010e44d129ed7bc78fce6ac6ca89bfc9aa0643a59e7fd4ba278493fca"
+metafile = true
+
+[[files]]
+file = "mods/library-ferret-fabric.pw.toml"
+hash = "c616a35c5463017d107abf4812868a7a8015c7c2e7777b36c0bb19ccbcfe3124"
 metafile = true
 
 [[files]]
@@ -717,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "ec64297b6b7f82ede5ecc46a82e8a0e8dc8b730ee2ad763427b7043389b7a072"
+hash = "b4e9564a3b53e008e176341a6e63fcfb33c89eab824fe11c2714d9bc66aa1e32"
 metafile = true
 
 [[files]]
@@ -827,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "5911b5aabe250aaccaa98ff6462faf7acaf1eb01d2828d751f7aaa8c79186a46"
+hash = "2dfe85df08bab2d9ad16f198de1acf586053aba45de52c46dd3c016a8f8cdaca"
 metafile = true
 
 [[files]]

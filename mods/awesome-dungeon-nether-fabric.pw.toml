@@ -1,0 +1,13 @@
+name = "Awesome Dungeon Nether edition - Fabric"
+filename = "awesomedungeonnether-fabric-1.18.2-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "679764222d3b0be1bf3db24520c0ec5e71e5cc1e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3959521
+project-id = 566642

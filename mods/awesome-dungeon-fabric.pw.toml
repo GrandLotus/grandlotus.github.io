@@ -1,0 +1,13 @@
+name = "Awesome Dungeon - Fabric"
+filename = "awesomedungeon-fabric-1.18.2-3.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c7da399b4715d3f94a279809bed5a9d7af715ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3959431
+project-id = 530309

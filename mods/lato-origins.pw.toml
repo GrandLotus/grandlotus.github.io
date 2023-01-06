@@ -1,0 +1,13 @@
+name = "Lato Origins"
+filename = "LatoOrigins-1.18.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "350f08598f632411c83c4fc0aa605be8994b386e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3639124
+project-id = 463325
