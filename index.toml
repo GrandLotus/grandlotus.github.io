@@ -21,6 +21,11 @@ hash = "4fe337508e47e5fa28c17a1debdc377e64cdef00b0b57b5cf91b569e1f2ad379"
 metafile = true
 
 [[files]]
+file = "mods/advancements-debug.pw.toml"
+hash = "24085c5f01e5011fcc499dbb442d9c6bca379a1a604cb45e5811e03c17b65e41"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "2369de3d3641a7980452bd69816c35e00db7eeab79b6e723b23cd94d879baa1d"
 metafile = true
@@ -823,6 +828,11 @@ metafile = true
 [[files]]
 file = "mods/no-more-purple.pw.toml"
 hash = "342162ec464b470f4f3dcd38e6f548818e412521862aa0a54ae52bffecc02963"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes.pw.toml"
+hash = "d352c9c68a27970131b5d685dfd5716121e8f8e60d5c953ecebadd4e00fbf293"
 metafile = true
 
 [[files]]
