@@ -956,11 +956,6 @@ hash = "d3cbfc74109c4ff70f7d61d559c7fee5d675762b9265174aaca5625b1629ec9c"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "83f571ee3020d90eb7ac7e0db4cf222d246223dffcc9f0cc8d7ef6859f4bddfa"
-metafile = true
-
-[[files]]
 file = "mods/show-me-what-you-got.pw.toml"
 hash = "432d99f2c43e5bd7aa703c4eccc9d6e6fe40d9d1e1b7d5c7ea0e305c8aa142da"
 metafile = true
