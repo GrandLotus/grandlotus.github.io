@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "77bd9b9ae2bf78481ba939cc78e5e4c0d9528516aa791305eecb39eb56e13125"
+hash = "8f07b2408013a7217caacec87c977635fdf94eb21a10bf281f2bba67ff7c4dc1"
 metafile = true
 
 [[files]]
@@ -578,6 +578,11 @@ metafile = true
 [[files]]
 file = "mods/gildedarmor.pw.toml"
 hash = "bc88773e533b94cbadd0a0f557cbbfd05cf2176a698c2952cd9e52c0e2e3f87b"
+metafile = true
+
+[[files]]
+file = "mods/gobber-fabric.pw.toml"
+hash = "b7fc0fa0e2990a222cb8ff9d56145597131a886035578db465796c264dd8413b"
 metafile = true
 
 [[files]]
