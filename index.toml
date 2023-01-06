@@ -596,6 +596,11 @@ hash = "933bae280bc8e1d572b3052f7912aa50929bc7e30be6a774bee0aba678babdc3"
 metafile = true
 
 [[files]]
+file = "mods/health-overlay-fabric.pw.toml"
+hash = "6a6bee4c667f75dfeb162edd441e1ce69373bc14357fc1904aa1c7c9cb2009f3"
+metafile = true
+
+[[files]]
 file = "mods/held-item-info.pw.toml"
 hash = "fef4c59a34ea669454a632f9ec048d64a73b715cc971e9224ebc5053a56cc1d1"
 metafile = true
