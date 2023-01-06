@@ -101,11 +101,6 @@ hash = "62d2ce122f6e9d53cc8a4a902a14a12f358f02b7041667f1744a4ec72a55ae7e"
 metafile = true
 
 [[files]]
-file = "mods/autoswitch.pw.toml"
-hash = "ae0e66628e024ed2c44246f78652050c3bf18ceeb42c552c71f2f3104eb9f576"
-metafile = true
-
-[[files]]
 file = "mods/autotag.pw.toml"
 hash = "b50913c0fba8b7910134dc6140b2c640d0d25a77e507789036c68b8da3d63dd1"
 metafile = true
